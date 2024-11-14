@@ -27,3 +27,6 @@ To install **DisplayOff**, follow these steps:
 
 1. Click the **DisplayOff** to turn off your screen while allowing background tasks to run.
 2. To restore the display, press any key or use the mouse.
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=username.repository)
