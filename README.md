@@ -22,7 +22,8 @@ To install **DisplayOff**, follow these steps:
 
 2. Open the downloaded file and drag **DisplayOff** into your Applications folder.
 
-   
+## Note: 
+Please disable automatic sleeping in the power settings to prevent the system from going to sleep when the screen is turned off.
 
 ##  Usage
 
